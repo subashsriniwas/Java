@@ -1,2 +1,3 @@
 Adding for studying purpose..
-If u want to update files from Git, Then use pull command to update the changes in your VS cod eeditor..
+If u want to update files from Git, 
+Then use pull command to update the changes in your VScode eeditor..
