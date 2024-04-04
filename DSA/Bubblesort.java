@@ -1,4 +1,4 @@
-//big O notation = O(n2)
+// TC= O(n2)
 
 public class Bubblesort {
     public static void main(String a[]){
